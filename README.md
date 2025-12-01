@@ -74,49 +74,17 @@ Projects built using Python + scikit-learn:
 
 ## 🌐 Connect with Me
 
-<table width="100%" align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="mailto:diyamatani0214@gmail.com">
-        <img src="https://img.icons8.com/color/96/gmail-new.png" height="60" alt="Gmail"/><br/>
-        <sub><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></sub>
-      </a>
-    </td>
-
-    <td align="center" width="33%">
-      <a href="https://www.linkedin.com/in/diya-matani">
-        <img src="https://img.icons8.com/color/96/linkedin.png" height="60" alt="LinkedIn"/><br/>
-        <sub><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></sub>
-      </a>
-    </td>
-
-    <td align="center" width="33%">
-      <a href="https://github.com/diya-matani">
-        <img src="https://img.icons8.com/ios-glyphs/100/ffffff/github.png" height="60" alt="GitHub"/><br/>
-        <sub><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></sub>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://leetcode.com/u/diyamatani17/">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="60" alt="LeetCode"/><br/>
-        <sub><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></sub>
-      </a>
-    </td>
-
-    <td align="center" width="33%">
-      <a href="https://www.geeksforgeeks.org/profile/diyamato5s3">
-        <img src="https://img.icons8.com/color/96/GeeksforGeeks.png" height="60" alt="GFG"/><br/>
-        <sub><img src="https://img.shields.io/badge/GFG-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></sub>
-      </a>
-    </td>
-
-    <td align="center" width="33%">
-    </td>
-  </tr>
-</table>
+<div align="Center">
+<a href="https://leetcode.com/u/diyamatani17/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Leetcode" />
+</a>
+<a href="https://www.geeksforgeeks.org/profile/diyamato5s3" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=GeeksForGeeks&logo=geeksforgeeks&label=&color=0F9D58&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Geeksforgeeks" />
+</a>
+<a href="https://www.linkedin.com/in/diya-matani/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linkedin" />
+</a>
+</div>
 
 ---
 <p align="center"><i>"Hesitation is Defeat"</i></p>
